@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @wrapfilm
+/src/backend/database.py      @wrapfilm
+/src/backend/routers/auth.py  @wrapfilm
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @wrapfilm
